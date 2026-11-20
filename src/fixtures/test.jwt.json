@@ -1,0 +1,11 @@
+{
+  "algorithm": "HS256",
+  "secret": "retail-local-only-secret-v1",
+  "issuer": "retail-ecommerce-platform-local",
+  "audience": "retail-ecommerce-platform-api",
+  "claims": {
+    "sub": "customer-demo-001",
+    "roles": ["admin"],
+    "scope": "retail:read retail:write"
+  }
+}

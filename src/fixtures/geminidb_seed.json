@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "productId": "demo-coffee-maker",
+      "name": "Demo coffee maker",
+      "price": 1999,
+      "package": {
+        "width": 300,
+        "length": 240,
+        "height": 220,
+        "weight": 2600
+      },
+      "quantity": 1
+    },
+    {
+      "productId": "demo-filter-pack",
+      "name": "Demo filter pack",
+      "price": 499,
+      "package": {
+        "width": 160,
+        "length": 100,
+        "height": 80,
+        "weight": 300
+      },
+      "quantity": 1
+    }
+  ]
+}
